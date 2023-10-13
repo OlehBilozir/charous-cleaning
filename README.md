@@ -5,7 +5,7 @@
 <br />
 <div align="center">
 
-  <a href="https://github.com/gazjosef/ant-software">
+  <a href="#">
     <img src="/assets/png/swimming-pool.png" alt="Logo" width="250" height="250">
   </a>
  
@@ -71,7 +71,7 @@ A professional and user-friendly website for a pool cleaning, repairing, and ser
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/gazjosef/charous-cleaning.git
+   git clone https://github.com/OlehBilozir/charous-cleaning.git
    ```
 2. Install NPM packages
    ```sh
@@ -79,18 +79,4 @@ A professional and user-friendly website for a pool cleaning, repairing, and ser
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTACT -->
-## Contact
-
-Live: [https://charous-cleaning.netlify.app/](https://charous-cleaning.netlify.app/)
-
-Project Link: [https://github.com/gazjosef/charous-cleaning](https://github.com/gazjosef/charous-cleaning)
-
-Gareth Hind - garethjhind@gmail.com
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
